@@ -1,0 +1,11 @@
+l1=['x','y','z']
+var1=x
+var2=y
+var3=z
+max=len(l1)
+count=0
+for i in l1:
+varcount=i
+count += 1
+ifcount==max:
+break
